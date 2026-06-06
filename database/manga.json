@@ -1,0 +1,42 @@
+// mangaData V1.0 Rev 0
+{
+  "manga_id": "MHW-DS001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Return of the Bloodthirsty Dragon Slayer",
+  "status": "Ongoing",
+  "author": "Jang Baek-san",
+  "artist": "Studio Inus",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Dunia hancur oleh invasi para naga. Umat manusia berada di ambang kepunahan. Pemburu naga terakhir, setelah pertarungan mematikan melawan Raja Naga, mendapati dirinya kembali ke masa lalu. Berbekal pengalaman dan ingatan dari kehidupan sebelumnya, ia bersumpah untuk mengubah takdir dan membantai semua naga yang pernah menghancurkan dunianya.",
+  "cover_url": "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/MHW-DS001/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian dan Permulaan Baru",
+      "images": [
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/MHW-DS001/ch001/page_01.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/MHW-DS001/ch001/page_02.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/MHW-DS001/ch001/page_03.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/MHW-DS001/ch001/page_04.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Ujian Akademi Hunter",
+      "images": [
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/MHW-DS001/ch002/page_01.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/MHW-DS001/ch002/page_02.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/MHW-DS001/ch002/page_03.jpg",
+        "https://raw.githubusercontent.com/Username/MonstaComic-Assets/main/MHW-DS001/ch002/page_04.jpg"
+      ]
+    }
+  ]
+}
